@@ -1,7 +1,7 @@
 # TMNT-2003-Series
 # 🐢 TTMNT 2003 Series  A Persian fan-made website dedicated to **Teenage Mutant Ninja Turtles (2003)**   وبسایتی کاملاً فارسی، ساخته‌شده برای طرفداران سریال لاک‌پشت‌های نینجا نسخه ۲۰۰۳
 
-�## 🚀 Live Demo
+## 🚀 Live Demo
 👉 [View on GitHub Pages](https://mr-syntax1.github.io/dad-jokes-generator/)  
 
 ---
