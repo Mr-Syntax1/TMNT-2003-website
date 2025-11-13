@@ -69,10 +69,14 @@ TMNT2003-ShadowLair/
 │── index.html
 │── style.css
 │── script.js
-└── assets/
-    ├── images/
-    ├── episodes/
-    └── icons/
+│── episodes/
+    │── episodes.css
+    │── episodes.html
+    │── episodes.js
+└── images/
+    ├── TMNT 4K.jpg
+    ├── TMNT logo.jpg
+    └── TMNT.jpg
 ```
 
 ---
@@ -80,7 +84,7 @@ TMNT2003-ShadowLair/
 ## 📦 نصب و اجرا
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/TMNT2003-ShadowLair
+git clone https://github.com/Mr-Syntax1/TMNT2003-ShadowLair
 ```
 
 سپس فایل `index.html` را باز کنید.
@@ -138,7 +142,7 @@ Created both as a fan project and as a learning project to improve front-end ski
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/TMNT2003-ShadowLair
+git clone https://github.com/Mr-Syntax1/TMNT2003-ShadowLair
 ```
 
 Open the file:
