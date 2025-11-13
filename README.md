@@ -4,8 +4,6 @@
 �## 🚀 Live Demo
 👉 [View on GitHub Pages](https://mr-syntax1.github.io/dad-jokes-generator/)  
 
-https://YOUR-USERNAME.github.io/TMNT2003-ShadowLair/
-
 ---
 
 # 🇮🇷 معرفی کامل پروژه (فارسی)
