@@ -391,6 +391,8 @@
             position: relative;
             backdrop-filter: blur(5px);
         }
+
+
         
         footer::before {
             content: "";
@@ -403,14 +405,20 @@
         }
         
         /* Video Page Styles */
-        .video-page {
-            display: none;
-            padding: 20px;
-        }
-        
-        .video-page.active {
-            display: block;
-        }
+      .video-page {
+    display: none; /* ابتدا مخفی */
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.95);
+    z-index: 1000;
+}
+
+.video-page.active {
+    display: flex; /* با کلاس active نمایش داده میشه */
+}
         
         .video-container {
             max-width: 800px;
@@ -483,3 +491,34 @@
             transition: all .4s ease;
         }
 
+
+/* استایل برای پیش‌نمایش آپارات */
+.aparat-preview {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 3;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.episode-thumbnail:hover .aparat-preview {
+    opacity: 1;
+}
+
+.episode-thumbnail:hover .play-icon {
+    opacity: 0;
+}
+
+/* حذف استایل‌های مربوط به پیش‌نمایش ویدیو MP4 */
+.preview-video {
+    display: none;
+}
+.player-container {
+    width: 100rem;
+}
+
+.preview-active {
+    /* غیرفعال کردن پیش‌نمایش ویدیو */
+}
