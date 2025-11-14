@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.x/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Lalezar&display=swap" rel="stylesheet">
     <title>TMNT 2003 Series</title>
     <style>
@@ -20,7 +20,7 @@
         }
         
         body {
-            background-color: #0a0f1e;
+            background-color: #3f3f3f5e;
             color: white;
             overflow-x: hidden;
             line-height: 1.6;
@@ -65,10 +65,11 @@
         
         /* Home Section */
         #home {
+            transition: opacity 0.6s ease-out;
             background: linear-gradient(
                 135deg,
                 rgba(10, 15, 30, 0.95) 0%,
-                rgba(26, 45, 77, 0.9) 100%
+                rgba(62, 83, 114, 0.555) 100%
             );
         }
         
@@ -189,7 +190,7 @@
             background: linear-gradient(
                 135deg,
                 rgba(26, 45, 77, 0.95) 0%,
-                rgba(42, 77, 122, 0.9) 100%
+                rgba(55, 88, 131, 0.342) 100%
             );
         }
         
@@ -313,6 +314,24 @@
             opacity: 1;
             transform: translateY(0);
         }
+
+           #bg-video {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            z-index: -1; /* می‌برد پشت همه چیز */
+            }
+
+            .content {
+            position: relative;
+            z-index: 1;
+            color: white;
+            padding: 20px;
+            }
+
         
         /* Responsive Design */
         @media (max-width: 768px) {
@@ -337,10 +356,16 @@
             .characters-grid {
                 grid-template-columns: 1fr;
             }
+            
         }
     </style>
 </head>
 <body>
+
+    <video autoplay muted loop playsinline id="bg-video">
+    <source src="./episodes/intro.mp4" type="video/mp4">
+    </video>
+
     <!-- Navigation Dots -->
     <div class="nav-dots">
         <div class="dot active" data-section="home"></div>
@@ -500,11 +525,17 @@
         });
         
         // Parallax effect for background
-        window.addEventListener('scroll', function() {
-            const scrolled = window.pageYOffset;
-            const background = document.querySelector('#home');
-            background.style.transform = `translateY(${scrolled * 0.5}px)`;
-        });
+// window.addEventListener('scroll', function () {
+//     const home = document.getElementById('home');
+//     const maxFade = 900; // هرچی بیشتر باشه دیرتر محو میشه
+//     const scroll = window.pageYOffset;
+
+//     let opacity = 1 - scroll / maxFade;
+//     if (opacity < 0) opacity = 0;
+
+//     home.style.opacity = opacity;
+// });
+
     </script>
 </body>
 </html>
