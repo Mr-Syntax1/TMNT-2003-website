@@ -2,7 +2,7 @@
 # 🐢 TMNT 2003 Series  A Persian fan-made website dedicated to **Teenage Mutant Ninja Turtles (2003)**
 
 ## 🚀 Live Demo,نسخه آنلاین
-👉 [View on GitHub Pages](https://mr-syntax1.github.io/TMNT-2003-Series/)  
+👉 [View on GitHub Pages](https://mr-syntax1.github.io/TMNT-2003-website/)  
 
 
 ---
