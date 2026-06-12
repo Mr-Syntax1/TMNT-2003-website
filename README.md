@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://img.icons8.com/color/96/000000/tmnt.png" alt="TMNT Logo" width="80"/>
-</p>
-
 <h1 align="center">🐢 TMNT 2003 – Shadow Lair</h1>
 
 <p align="center">
@@ -13,6 +9,10 @@
   <img src="https://img.shields.io/badge/typescript-5.0.0-3178C6?style=flat-square&logo=typescript" />
   <img src="https://img.shields.io/badge/tailwindcss-3.3.0-06B6D4?style=flat-square&logo=tailwindcss" />
   <img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" />
+</p>
+
+<p align="center">
+<img width="1919" height="941" alt="Screenshot 2026-06-13 023402" src="https://github.com/user-attachments/assets/6d620481-6d4b-459c-93b1-80bcc7e4eda2" />
 </p>
 
 <p align="center">
