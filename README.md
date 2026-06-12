@@ -50,7 +50,6 @@ This project was built as a portfolio piece to demonstrate advanced React patter
 ## 🖼️ Demo
 
 > 🔗 [Live Demo – coming soon](#)  
-> *(Deploy on Vercel / Netlify and paste your link here)*
 
 <p align="center">
   <img src="./screenshots/home.png" width="45%" />
@@ -136,4 +135,4 @@ src/
 ## ⭐ Show your support
 ### Give a ⭐ if this project helped you or you like it!
 
-<p align="center"> <i>Made with 💚 and 🐢 for TMNT fans</i> </p> ```
+<p align="center"> <i>Made with 💚 and 🐢 for TMNT fans</i> </p>
