@@ -62,7 +62,7 @@ This project was built as a portfolio piece to demonstrate advanced React patter
 
 | Technology       | Purpose                               |
 |------------------|---------------------------------------|
-| React 18         | UI library                            |
+| React 19         | UI library                            |
 | TypeScript       | Type safety & better DX               |
 | Tailwind CSS     | Utility-first styling                 |
 | React Router DOM | Client-side routing                   |
