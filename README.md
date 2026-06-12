@@ -108,8 +108,12 @@ Visit http://localhost:5173
 
 
 ## 📁 Project Structure
+```text
 src/
-├── assets/               # images, video, logos
+├── assets/
+│   ├── hero.png
+│   ├── intro.mp4
+│   └── TMNT logo.jpg
 ├── components/
 │   ├── CharacterCard.tsx
 │   ├── EpisodeCard.tsx
@@ -118,10 +122,10 @@ src/
 ├── context/
 │   └── LanguageContext.tsx
 ├── data/
-│   ├── characters.ts
+│   ├── characters.tsx
 │   ├── episodes.ts
 │   └── translations.ts
-├── font/                 # custom fonts
+├── font/
 ├── layout/
 │   ├── Footer.tsx
 │   ├── Header.tsx
@@ -132,6 +136,7 @@ src/
 ├── App.tsx
 ├── index.css
 └── main.tsx
+```
 
 
 
