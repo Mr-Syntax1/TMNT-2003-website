@@ -4,6 +4,8 @@
   <strong>Modern fan website for Teenage Mutant Ninja Turtles (2003) – built with React, TypeScript & Tailwind CSS</strong>
 </p>
 
+<br/>
+
 <p align="center">
   <img src="https://img.shields.io/badge/react-18.2.0-61DAFB?style=flat-square&logo=react" />
   <img src="https://img.shields.io/badge/typescript-5.0.0-3178C6?style=flat-square&logo=typescript" />
@@ -13,10 +15,6 @@
 
 <p align="center">
 <img width="1919" height="941" alt="Screenshot 2026-06-13 023402" src="https://github.com/user-attachments/assets/6d620481-6d4b-459c-93b1-80bcc7e4eda2" />
-</p>
-
-<p align="center">
-  <a href="#-getting-started">Getting Started</a>
 </p>
 
 <br/>
