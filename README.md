@@ -1,5 +1,4 @@
 <h1 align="center">🐢 TMNT 2003 – Shadow Lair</h1>
-<img width="1626" height="941" alt="Screenshot 2026-06-13 023402" src="https://github.com/user-attachments/assets/9bbbb733-893c-4934-a894-e6e1b0d6b072" />
 
 <p align="center">
   <strong>Modern fan website for Teenage Mutant Ninja Turtles (2003) – built with React, TypeScript & Tailwind CSS</strong>
