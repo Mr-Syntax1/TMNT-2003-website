@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/react-18.2.0-61DAFB?style=flat-square&logo=react" />
   <img src="https://img.shields.io/badge/typescript-5.0.0-3178C6?style=flat-square&logo=typescript" />
   <img src="https://img.shields.io/badge/tailwindcss-3.3.0-06B6D4?style=flat-square&logo=tailwindcss" />
-  <img src="https://img.shields.io/badge/vite-5.0.0-646CFF?style=flat-square&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/vite-latest-646CFF?style=flat-square&logo=vite&logoColor=white" />
 </p>
 
 <p align="center">
