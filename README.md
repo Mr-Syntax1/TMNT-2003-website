@@ -19,6 +19,13 @@
 
 <br/>
 
+
+## 🖼️ Demo
+
+> 🔗 [Live Demo](https://tmnt2003.netlify.app/)  
+
+---
+
 ## 🎬 About
 
 **TMNT 2003 – Shadow Lair** is a fully responsive, bilingual (Persian/English) fan website dedicated to the **Teenage Mutant Ninja Turtles 2003 animated series**.  
@@ -44,17 +51,6 @@ This project was built as a portfolio piece to demonstrate advanced React patter
 - 🎨 **Fixed dark theme** with animated glowing circles (green, blue, purple) – immersive TMNT vibe.
 - 📱 **Fully responsive** – works on mobile, tablet, and desktop.
 - 🧭 **Smooth scrolling** + active navigation dots.
-
----
-
-## 🖼️ Demo
-
-> 🔗 [Live Demo](https://tmnt2003.netlify.app/)  
-
-<p align="center">
-  <img src="./screenshots/home.png" width="45%" />
-  <img src="./screenshots/episodes.png" width="45%" />
-</p>
 
 ---
 
