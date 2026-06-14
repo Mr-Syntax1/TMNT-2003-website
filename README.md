@@ -18,11 +18,11 @@
 </p>
 
 <br/>
-  
-  <a href="https://tmnt2003.netlify.app/" align="center">
+<div align="center">
+  <a href="https://tmnt2003.netlify.app/">
     <img src="https://img.shields.io/badge/🔗_Click_to_see_Live_Demo-👉_tmnt2003.netlify.app-ff69b4?style=for-the-badge&logo=netlify" alt="Live Demo">
   </a>
-
+</div>
 ---
 
 ## 🎬 About
