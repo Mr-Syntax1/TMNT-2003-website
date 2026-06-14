@@ -22,7 +22,7 @@
 
 ## 🖼️ Demo
 <div align="center">
-> 🔗 [Live Demo](https://tmnt2003.netlify.app/)  
+🔗 [Live Demo](https://tmnt2003.netlify.app/)  
 </div>
 ---
 
