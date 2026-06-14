@@ -21,11 +21,15 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/demo-online-brightgreen?style=for-the-badge&logo=netlify&logoColor=white" alt="demo status">
+  <a href="https://tmnt2003.netlify.app/">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-TMNT_2003-ff6b6b?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
+  </a>
 </p>
 
 <p align="center">
-  <strong>🐢 <a href="https://tmnt2003.netlify.app/">tmnt2003.netlify.app</a> 🐢</strong>
+  <a href="https://tmnt2003.netlify.app/">
+    <img src="https://img.shields.io/website?down_color=red&down_message=offline&label=status&style=flat-square&up_color=brightgreen&up_message=online&url=https%3A%2F%2Ftmnt2003.netlify.app" alt="Website Status">
+  </a>
 </p>
 
 ---
