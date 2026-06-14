@@ -18,26 +18,10 @@
 </p>
 
 <br/>
-
-
-<div align="center">
-  <h3>
-    <a href="https://tmnt2003.netlify.app/">
-      🐢 TMNT 2003 Fan Website 🐢
-    </a>
-  </h3>
-  
-  [![Netlify Status](https://api.netlify.com/api/v1/badges/YOUR_PROJECT_ID/deploy-status)](https://app.netlify.com/sites/tmnt2003/deploys)
-  [![Website](https://img.shields.io/website?url=https%3A%2F%2Ftmnt2003.netlify.app)](https://tmnt2003.netlify.app)
-  [![Made with React](https://img.shields.io/badge/Made%20with-React-61dafb?logo=react)](https://reactjs.org)
-  [![Tailwind](https://img.shields.io/badge/styled%20with-Tailwind-38bdf8?logo=tailwindcss)](https://tailwindcss.com)
-  
-  <br/>
   
   <a href="https://tmnt2003.netlify.app/">
     <img src="https://img.shields.io/badge/🔗_Click_to_see_Live_Demo-👉_tmnt2003.netlify.app-ff69b4?style=for-the-badge&logo=netlify" alt="Live Demo">
   </a>
-</div>
 
 ---
 
