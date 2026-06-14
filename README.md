@@ -49,7 +49,7 @@ This project was built as a portfolio piece to demonstrate advanced React patter
 
 ## 🖼️ Demo
 
-> 🔗 [Live Demo – coming soon](#)  
+> 🔗 [Live Demo](https://tmnt2003.netlify.app/)  
 
 <p align="center">
   <img src="./screenshots/home.png" width="45%" />
