@@ -20,10 +20,13 @@
 <br/>
 
 
-## 🖼️ Demo
-<div align="center">
-🔗 [Live Demo](https://tmnt2003.netlify.app/)  
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/demo-online-brightgreen?style=for-the-badge&logo=netlify&logoColor=white" alt="demo status">
+</p>
+
+<p align="center">
+  <strong>🐢 <a href="https://tmnt2003.netlify.app/">tmnt2003.netlify.app</a> 🐢</strong>
+</p>
 ---
 
 ## 🎬 About
