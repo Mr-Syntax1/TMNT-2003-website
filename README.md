@@ -20,8 +20,8 @@
 <br/>
 
 <div align="center">
-  <a href="https://tmnt2003.netlify.app/">
-    <img src="https://img.shields.io/badge/🔗_Click_to_see_Live_Demo-👉_tmnt2003.netlify.app-2ea44f?style=for-the-badge&logo=netlify" alt="Live Demo">
+  <a href="https://weather-app-pro-2026.netlify.app/">
+    <img src="https://img.shields.io/badge/🌤️_See_Live_Demo-👉_weather--app--pro--2026.netlify.app-0A66C2?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo">
   </a>
 </div>
 
